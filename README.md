@@ -22,7 +22,7 @@
 - 🎯 Goal: Crack top tech company placements
 - ⚡ Fun Fact: I love turning ideas into real-world projects
 
-📫 Reach me at: **23pa1a05n1@vishnu.edu.in**
+📫 Reach me at: **thokalacharan68@gmail.com**
 
 ---
 
@@ -59,26 +59,6 @@
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thokalacharan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thokalacharan&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thokalacharan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
